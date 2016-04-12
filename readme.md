@@ -14,9 +14,9 @@ A few general notes about the course structure:
 
 - We will also use UNIX for local command line, programing, and data processing exercises. This means that it will not be possible to use Microsoft Windows alone for most course activities. If your primary laptop is Microsoft Windows, there are a couple options. We suggest that you borrow a Mac laptop for the course. Alternatively, if you prefer you can install Linux on a Virtual Machine and run it from within Windows.
 
-- Course content, schedule, code, and and other files will be distributed on [github](https://github.com).
+- Course content, schedule, code, and and other files will be distributed on [github](https://github.com). Course materials are available at [neptune2016](https://github.com/neptune2016).
 
-- Course communication and coordination will take place on [slack](https://slack.com). After you fill out the course survey, Casey will send you an invitation to the slack team.
+- Course communication and coordination will take place on [slack](https://slack.com). 
 
 
 ## To do before you arrive
@@ -31,9 +31,9 @@ A few general notes about the course structure:
 
 - Create an [Amazon](http://www.amazon.com) account. You won't need to purchase anything for this class, but you will need a valid account to get access to the Amazon cloud computers we will use.
 
-- Join the course slack team. (todo: casey will set this up)
+- Join the course [slack](https://slack.com) team. After you fill out the course survey, Casey will send you an invitation to the slack team.
 
-- Instructors, please see instructors.md for additional preparation items.
+- Instructors, please see [instructors.md](https://github.com/neptune2016/syllabus/blob/master/instructors.md) for additional preparation items.
 
 
 ## Instructions
