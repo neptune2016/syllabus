@@ -14,7 +14,7 @@ A few general notes about the course structure:
 
 - We will also use UNIX for local command line, programing, and data processing exercises. This means that it will not be possible to use Microsoft Windows alone for most course activities. If your primary laptop is Microsoft Windows, there are a couple options. We suggest that you borrow a Mac laptop for the course. Alternatively, if you prefer you can install Linux on a Virtual Machine and run it from within Windows.
 
-- Course content, schedule, code, and and other files will be distributed on [github](https://github.com). Course materials are available at [neptune2016](https://github.com/neptune2016).
+- Course content, schedule, code, and other files will be distributed on [github](https://github.com). Course materials are available at [neptune2016](https://github.com/neptune2016).
 
 - Course communication and coordination will take place on [slack](https://slack.com). 
 
@@ -23,7 +23,7 @@ A few general notes about the course structure:
 
 - Fill out the course survey (todo: casey will add link). This will be used to tailor the content to your interests and make decisions about how to run the course to best fit everyones' needs. *Please complete the survey by XXX*.
 
-- Bring a copy of [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html) (abbreviated in this document as PCfB) and read "Gefore you Begin", Chapter 1, and Chapter 2. Also download an familiarize yourself with the [example files](http://practicalcomputing.org) provided at the [book website](http://practicalcomputing.org).
+- Bring a copy of [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html) (abbreviated in this document as PCfB) and read "Before you Begin", Chapter 1, and Chapter 2. Also download an familiarize yourself with the [example files](http://practicalcomputing.org) provided at the [book website](http://practicalcomputing.org).
 
 - Please an Ethernet adapter and Ethernet cable, as wifi access will be slow.
 
@@ -38,7 +38,7 @@ A few general notes about the course structure:
 
 ## Instructions
 
-### Using Amazong Web Services
+### Using Amazon Web Services
 
 ### Git
 
