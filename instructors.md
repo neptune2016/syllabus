@@ -16,15 +16,15 @@ The intent of using github is:
 
 ## Amazon Web Services
 
-We will use [AWS](https://aws.amazon.com) for at least some of the remote computing components of the class.
+We will use [AWS](https://aws.amazon.com) for the remote computing components of the class.
 
 The course will be configured as follows:
 
-- We will have S3 storage for storing data and other files while the course will be in session. This will be deleted at the end of the course.
+- We will have [EBS](https://aws.amazon.com/ebs/) storage for storing data and other files while the course will be in session. This will be deleted at the end of the course. Small datasets (less than a few hundred MB) can also be included on this virtual drive. Casey will provide information on how to add data to this drive when it is created.
 
-- Casey will create an Ubuntu [Amazon Machine Instance](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) (AMI) for the course that has all software preinstalled. Small datasets (less than a few hundred MB) can also be included on this image. This image will be used to create each new virtual computer.
+- Casey will create an Ubuntu [Amazon Machine Instance](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) (AMI) for the course that has all software preinstalled. This image will be used to create each new virtual computer. Please create a new issue on the [issue tracker](https://github.com/neptune2016/syllabus/issues) to request software for Casey to install by May 13, 2016.
 
-- For each analysis, students will create an [EC2](https://aws.amazon.com/ec2/instance-types/) instance with the course AMI. THis will give them a cresh virtual machine with preconfigured software for each analysis. After the results are obtained, the virtual machine will be derminated.
+- For each analysis, students will create an [EC2](https://aws.amazon.com/ec2/instance-types/) instance with the course AMI. This will give them a fresh virtual machine with preconfigured software for each analysis. After the results are obtained, the virtual machine will be terminated.
 
 To keep costs down, we will want to keep the example analyses as small as possible to reduce data footprint and run times. Everyone will need an amazon account for authentication, but computing charges will be covered by the course (up to a limit). 
 
