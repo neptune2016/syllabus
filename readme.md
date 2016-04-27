@@ -16,12 +16,12 @@ A few general notes about the course structure:
 
 - Course content, schedule, code, and other files will be distributed on [github](https://github.com). Course materials are available at [neptune2016](https://github.com/neptune2016).
 
-- Course communication and coordination will take place on [slack](https://slack.com). 
+- Course communication and coordination will take place on [slack](https://slack.com). Casey will send a link for you to join our slack team.
 
 
 ## To do before you arrive
 
-- Fill out the course survey (todo: casey will add link). This will be used to tailor the content to your interests and make decisions about how to run the course to best fit everyones' needs. *Please complete the survey by XXX*.
+- Fill out the [course survey](http://goo.gl/forms/nfuwpCX74x). This will be used to tailor the content to your interests and make decisions about how to run the course to best fit everyones' needs. *Please complete the survey by May 6, 2016*.
 
 - Bring a copy of [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html) (abbreviated in this document as PCfB) and read "Before you Begin", Chapter 1, and Chapter 2. Also download an familiarize yourself with the [example files](http://practicalcomputing.org) provided at the [book website](http://practicalcomputing.org).
 
@@ -31,7 +31,7 @@ A few general notes about the course structure:
 
 - Create an [Amazon](http://www.amazon.com) account. You won't need to purchase anything for this class, but you will need a valid account to get access to the Amazon cloud computers we will use.
 
-- Join the course [slack](https://slack.com) team. After you fill out the course survey, Casey will send you an invitation to the slack team.
+- After you fill out the course survey, Casey will send you an invitation to the slack team.
 
 - Install the required software listed below. 
 
