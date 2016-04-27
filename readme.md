@@ -25,7 +25,7 @@ A few general notes about the course structure:
 
 - Bring a copy of [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html) (abbreviated in this document as PCfB) and read "Before you Begin", Chapter 1, and Chapter 2. Also download an familiarize yourself with the [example files](http://practicalcomputing.org) provided at the [book website](http://practicalcomputing.org).
 
-- Please an Ethernet adapter and Ethernet cable, as wifi access will be slow.
+- Bring an Ethernet adapter and Ethernet cable, as wifi access will be slow.
 
 - Create a [github](https://github.com) account. If you use an academic email address, you may be eligible for free upgrades.
 
