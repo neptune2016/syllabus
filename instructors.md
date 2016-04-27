@@ -28,7 +28,3 @@ The course will be configured as follows:
 
 To keep costs down, we will want to keep the example analyses as small as possible to reduce data footprint and run times. Everyone will need an amazon account for authentication, but computing charges will be covered by the course (up to a limit). 
 
-## To do
-
-- Figure out best billing configuration for Amazon
-
