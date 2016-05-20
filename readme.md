@@ -1,7 +1,5 @@
 # Neptune 2016
 
-# This is a preliminary Document and Still Subject to Revision
-
 ## Introduction
 
 The course will include morning workshops on general computing skills based on the book [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html). These will be taught be [Casey Dunn](http://dunnlab.org), along with August Guang (a grad student in Casey's lab) with help from additional TAs. Morning workshops will be followed by afternoon workshops on specific applications of bioinformatics.
@@ -23,7 +21,7 @@ A few general notes about the course structure:
 
 - Fill out the course survey (todo: casey will add link). This will be used to tailor the content to your interests and make decisions about how to run the course to best fit everyones' needs. *Please complete the survey by XXX*.
 
-- Bring a copy of [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html) (abbreviated in this document as PCfB) and read "Before you Begin", Chapter 1, and Chapter 2. Also download an familiarize yourself with the [example files](http://practicalcomputing.org) provided at the [book website](http://practicalcomputing.org).
+- Bring a copy of [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html) (abbreviated in this document as PCfB). Complete the reading for the first class (see Schedule below) prior to arrival. Also download an familiarize yourself with the [example files](http://practicalcomputing.org) provided at the [book website](http://practicalcomputing.org).
 
 - Please an Ethernet adapter and Ethernet cable, as wifi access will be slow.
 
@@ -65,6 +63,31 @@ Please install the following tools on your laptop before you arrive. This will r
 ### Git
 
 ## Schedule
+
+For the complete schedule, please see the [program](.program.pdf?raw=true). This syllabus focuses on the 6 classes to be taught by Casey. These classes are from 9.00 - 13.00 on each of the following days.
+
+The lectures are a bit out of sequence with the book to be sure you have the skills needed for the other course activities led by other instructors.
+
+### Class 1 (Tuesday May 31): Getting Set Up, The Unix Command Line, Remote Machines
+> Reading: Haddock & Dunn "Before You Begin", Chapters 1, 4, 20, Appendix 1-2 
+
+### Application Lecture: Sequencing project planning (Tuesday May 31 14.00-15.30)
+> Reading: [Dunn et al. 2013](http://dx.doi.org/10.1093/icb/ict068). Suggested optional reading: [Guang et al. 2016](http://dx.doi.org/10.1016/j.tree.2015.12.007)
+
+### Class 2 (Thursday June 2): Command Line (continued), Regular Expressions
+> Reading: Haddock & Dunn Chapters 2-3, 5-6
+
+### Class 3 (Friday June 3): Version Control, Project Management, High Performance Computing
+> Reading: Haddock & Dunn new git chapter (to be distributed at the course)
+
+### Class 4 (Monday June 6): Programming
+> Reading: Haddock & Dunn Chapters 7-9
+
+### Class 5 (Tuesday June 7): Programming continued
+> Reading: Haddock & Dunn Chapters 10-12
+
+### Class 6 (Wednesday June 8): Graphics, Visualizing Data
+> Reading: Haddock & Dunn Chapters 17-19
 
 ## Reading
 
