@@ -91,4 +91,6 @@ The lectures are a bit out of sequence with the book to be sure you have the ski
 
 ## Reading
 
+> Haddock and Dunn 2011. [Practical Computing for Biologists](http://www.sinauer.com/practical-computing-for-biologists.html). Sinauer and Associates.
+
 ## Other resources
