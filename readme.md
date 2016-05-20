@@ -74,6 +74,10 @@ The lectures are a bit out of sequence with the book to be sure you have the ski
 ### Application Lecture: Sequencing project planning (Tuesday May 31 14.00-15.30)
 > Reading: [Dunn et al. 2013](http://dx.doi.org/10.1093/icb/ict068). Suggested optional reading: [Guang et al. 2016](http://dx.doi.org/10.1016/j.tree.2015.12.007)
 
+### Application Practical (Tuesday May 31 16.00-18.00)
+
+Hands on example of a basic analysis on Amazon
+
 ### Class 2 (Thursday June 2): Command Line (continued), Regular Expressions
 > Reading: Haddock & Dunn Chapters 2-3, 5-6
 
@@ -82,6 +86,9 @@ The lectures are a bit out of sequence with the book to be sure you have the ski
 
 ### Class 4 (Monday June 6): Programming
 > Reading: Haddock & Dunn Chapters 7-9
+
+### Application Practical: building a phylogenetic tree (Monday June 6, 16.00-18.00)
+Run by Max and Casey
 
 ### Class 5 (Tuesday June 7): Programming continued
 > Reading: Haddock & Dunn Chapters 10-12
