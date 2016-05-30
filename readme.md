@@ -71,6 +71,15 @@ The lectures are a bit out of sequence with the book to be sure you have the ski
 ### Class 1 (Tuesday May 31): Getting Set Up, The Unix Command Line, Remote Machines
 > Reading: Haddock & Dunn "Before You Begin", Chapters 1, 4, 20, Appendix 1-2 
 
+- Computer files. Binary, text. ASCII (Appendix 6, p 507). Binary used for highly optimized files, eg images. 
+
+- Text general purpose - don't need special programs to read it and structure of content (ideally) is apparent from file contents themselves. Inefficient use of memory but easier for humans.
+
+- Structure of data in text files. eg tabular with delimeters, header row. application specific, eg fasta and genbank. hierarchical, eg xml json.
+
+- text line endings are different from system to system. Unix (including OS X) is "line feed" - `\n`. Windows is `\r\n`. This is a common source of headaches when transferring files between computers.
+
+
 ### Application Lecture: Sequencing project planning (Tuesday May 31 14.00-15.30)
 > Reading: [Dunn et al. 2013](http://dx.doi.org/10.1093/icb/ict068). Suggested optional reading: [Guang et al. 2016](http://dx.doi.org/10.1016/j.tree.2015.12.007)
 
