@@ -68,42 +68,32 @@ For the complete schedule, please see the [program](.program.pdf?raw=true). This
 
 The lectures are a bit out of sequence with the book to be sure you have the skills needed for the other course activities led by other instructors.
 
-### Class 1 (Tuesday May 31): Getting Set Up, The Unix Command Line, Remote Machines
-> Reading: Haddock & Dunn "Before You Begin", Chapters 1, 4, 20, Appendix 1-2 
-
-- Computer files. Binary, text. ASCII (Appendix 6, p 507). Binary used for highly optimized files, eg images. 
-
-- Text general purpose - don't need special programs to read it and structure of content (ideally) is apparent from file contents themselves. Inefficient use of memory but easier for humans.
-
-- Structure of data in text files. eg tabular with delimeters, header row. application specific, eg fasta and genbank. hierarchical, eg xml json.
-
-- text line endings are different from system to system. Unix (including OS X) is "line feed" - `\n`. Windows is `\r\n`. This is a common source of headaches when transferring files between computers.
-
+### Class 1 (Tuesday May 31): Getting Set Up, The Unix Command Line
+> Reading: Haddock & Dunn "Before You Begin", Chapters 1, 4-5, Appendix 1, 3 
 
 ### Application Lecture: Sequencing project planning (Tuesday May 31 14.00-15.30)
 > Reading: [Dunn et al. 2013](http://dx.doi.org/10.1093/icb/ict068). Suggested optional reading: [Guang et al. 2016](http://dx.doi.org/10.1016/j.tree.2015.12.007)
 
-### Application Practical (Tuesday May 31 16.00-18.00)
+### Application Practical (Tuesday May 31 16.00-18.00) - Regular Exressions
+> Reading: Haddock & Dunn Chapters 2-3, Appendix 2
 
-Hands on example of a basic analysis on Amazon
+### Class 2 (Thursday June 2): Command Line (continued), Remote Machines, Version Control
+> Reading: Haddock & Dunn Chapters 6, 20, Haddock & Dunn new git chapter (to be distributed at the course)
 
-### Class 2 (Thursday June 2): Command Line (continued), Regular Expressions
-> Reading: Haddock & Dunn Chapters 2-3, 5-6
 
-### Class 3 (Friday June 3): Version Control, Project Management, High Performance Computing
-> Reading: Haddock & Dunn new git chapter (to be distributed at the course)
-
-### Class 4 (Monday June 6): Programming
+### Class 3 (Friday June 3): Programming
 > Reading: Haddock & Dunn Chapters 7-9
+
+### Class 4 (Monday June 6): Programming continued
+> Reading: Haddock & Dunn Chapters 10-12
 
 ### Application Practical: building a phylogenetic tree (Monday June 6, 16.00-18.00)
 Run by Max and Casey
 
-### Class 5 (Tuesday June 7): Programming continued
-> Reading: Haddock & Dunn Chapters 10-12
-
-### Class 6 (Wednesday June 8): Graphics, Visualizing Data
+### Class 5 (Tuesday June 7): Graphics, Visualizing Data, Project Management, High Performance Computing
 > Reading: Haddock & Dunn Chapters 17-19
+
+### Class 6 (Wednesday June 8): To Be Determined
 
 ## Reading
 
