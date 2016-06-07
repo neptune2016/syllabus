@@ -77,23 +77,30 @@ The lectures are a bit out of sequence with the book to be sure you have the ski
 ### Application Practical (Tuesday May 31 16.00-18.00) - Regular Exressions
 > Reading: Haddock & Dunn Chapters 2-3, Appendix 2
 
-### Class 2 (Thursday June 2): Command Line (continued), Remote Machines, Version Control
+### Class 2 (Thursday June 2): Version Control, Command Line (continued), Remote Machines, 
 > Reading: Haddock & Dunn Chapters 6, 20, Haddock & Dunn new git chapter (to be distributed at the course)
 
 
 ### Class 3 (Friday June 3): Programming
-> Reading: Haddock & Dunn Chapters 7-9
+> Reading: Haddock & Dunn Chapters 7-8
 
 ### Class 4 (Monday June 6): Programming continued
-> Reading: Haddock & Dunn Chapters 10-12
+> Reading: Haddock & Dunn Chapters 9
+
+Loops, if statements, dictionaries, lists
 
 ### Application Practical: building a phylogenetic tree (Monday June 6, 16.00-18.00)
 Run by Max and Casey
 
-### Class 5 (Tuesday June 7): Graphics, Visualizing Data, Project Management, High Performance Computing
-> Reading: Haddock & Dunn Chapters 17-19
+### Class 5 (Tuesday June 7): Programming continued
+> Reading: Haddock & Dunn Chapters 10
 
-### Class 6 (Wednesday June 8): To Be Determined
+Reading data from files, functions
+
+### Class 6 (Wednesday June 8): Programming continued
+> Reading: Haddock & Dunn Chapters 11-12
+
+Passing arugments to programs, exercises, reinforcement, review
 
 ## Reading
 
